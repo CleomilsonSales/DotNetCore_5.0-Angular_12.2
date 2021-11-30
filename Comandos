@@ -2,7 +2,11 @@
 
 //.NET
 --controle de versão para trabalhar no dotnet: global.json
-
+--relembrando novo projeto
+dotnet new webapi -n NOMEPROJETO
 --auto-complete do .net é no OmniSharp
+
+--instalando o ef
+dotnet tool install --global dotnet-ef
 
 //angular

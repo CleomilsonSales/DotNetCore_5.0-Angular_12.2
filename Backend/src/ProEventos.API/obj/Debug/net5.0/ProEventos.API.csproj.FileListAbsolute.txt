@@ -19,10 +19,12 @@ D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEv
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
-D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.dll
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
+D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\bin\Debug\net5.0\global.json
+D:\Estudos\DotNet_Core&Angular12.2\DotNetCore_5.0&Angular_12.2\Backend\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
