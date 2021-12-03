@@ -273,3 +273,4 @@ export class EventoDetalheComponent implements OnInit {
   }
 
 }
+
